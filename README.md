@@ -23,10 +23,6 @@
   <img src="https://komarev.com/ghpvc/?username=afprayogi&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="afprayogi" style="padding-right:20px;" />
 </p>
 
-<br />
-<br />
-<br />
-
 
 <!--Trophies Section-->   
 <!--Github stats Table--> 
@@ -161,7 +157,8 @@
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=It%20is%20up%20to%20each%20of%20us%20to%20sing%20as%20we%20feel%20moved%20by%20the%20overall%20song%20of%20life.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Cory%20House&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90
+">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
