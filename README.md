@@ -1,11 +1,11 @@
-<!--Night Owl image-->
-<img align="right" width="20%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRyOWx0YXF0emhtOXBvYmZyMzlpdzY5NjBrcGplanJhNDY4ZHJzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeNoywvwyYoonZdJiJ/giphy.gif">
-
-
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Winrar.exee! 
 *Fullstack developer with IoT*
 <br /> 
+
+<!--Night Owl image-->
+<img align="right" width="20%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRyOWx0YXF0emhtOXBvYmZyMzlpdzY5NjBrcGplanJhNDY4ZHJzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeNoywvwyYoonZdJiJ/giphy.gif">
+
 
 <!--Start Intro-->               
 <p align="left">I am a **Full Stack Developer** and **Machine Learning Enthusiast** with a huge love for:
