@@ -2,7 +2,7 @@
 ![Kiran1689 Banner Image](./banner.png)
 
 <!--Night Owl image-->
-<img align="right" width="40%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="40%" src="https://www.embedded.com/wp-content/uploads/2021/04/IoT_image-1024x683.jpg">
 
 
 <!--Header Name-->
