@@ -20,10 +20,6 @@
 
 🔧 I'm passionate about combining **hardware, embedded systems, AI**, and **modern web technologies** to build real-world solutions. Whether it’s coding a dashboard, training a model, or wiring a microcontroller — I love doing it all.
  </p>
-
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity
-- ❤ Contributing to Open Source.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
