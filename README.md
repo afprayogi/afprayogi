@@ -12,7 +12,14 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python,PHP,C++, C, Pascal. </p>
+<p align="left">I am a **Full Stack Developer** and **Machine Learning Enthusiast** with a huge love for:
+
+- 🐍 **Python** – my go-to for automation and machine learning  
+- 🐘 **PHP** – for backend systems and web development  
+- 💻 **C, C++, Pascal** – for low-level programming and algorithm implementation  
+
+🔧 I'm passionate about combining **hardware, embedded systems, AI**, and **modern web technologies** to build real-world solutions. Whether it’s coding a dashboard, training a model, or wiring a microcontroller — I love doing it all.
+ </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity
