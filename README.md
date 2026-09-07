@@ -32,11 +32,11 @@ $ ls ~/projects --sort=recent -la
 ```
 
 <!--START_PROJECTS-->
+- [learningneuralnetworkonmikrokontroler](https://github.com/afprayogi/learningneuralnetworkonmikrokontroler) — project belajar · `python`
 - [ModbusMeter-Suite](https://github.com/afprayogi/ModbusMeter-Suite) — Modbus power-meter logging & live monitoring for Windows — installable software, zero Python required · `python`
 - [goleklomba_buatanclaude](https://github.com/afprayogi/goleklomba_buatanclaude) — scrapping compettion on browser and i am make this with my claude services · `html`
 - [ai-internship-search-proto](https://github.com/afprayogi/ai-internship-search-proto) — AI-powered internship search assistant for Indonesian engineering students — Claude Code workflow for profile setup, job evaluation, tailored CV/cover letters, and interview prep, plus an offline LinkedIn/JobStreet scraper with WhatsApp notifications. · `typescript`
 - [maze-rl-lab](https://github.com/afprayogi/maze-rl-lab) — Tabular RL agents (Q-learning, SARSA, Double Q-learning) that learn to escape auto-generated mazes using only 4 relative wall sensors — no coordinates, no map. Includes multi-seed statistics, generalization testing, and an adversarial maze generator. · `python`
-- [bengkel-masalah-elektrikal](https://github.com/afprayogi/bengkel-masalah-elektrikal) — Dashboard jalur belajar Teknik Elektro berbasis masalah nyata — menarik soal troubleshooting asli dari Stack Exchange, GitHub Issues, dan arXiv, disusun jadi 361+ task 4 level dari fondasi sampai proyek industri (motor control, IoT, PLC, AI edge). · `html`
 <!--END_PROJECTS-->
 
 ```
@@ -48,5 +48,5 @@ no discord badge wall, no "let's connect 🚀" — just [github.com/afprayogi](h
 ---
 
 <!--LAST_UPDATED-->
-`last sync: 2026-09-06 01:25 UTC` — kept honest by [update.py](update.py), not by hand
+`last sync: 2026-09-07 01:23 UTC` — kept honest by [update.py](update.py), not by hand
 <!--END_LAST_UPDATED-->
