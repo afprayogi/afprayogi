@@ -20,12 +20,11 @@ $ cat manifesto.txt
 $ ls ~/stack --group-directories-first
 ```
 
-| domain             | tools                                      |
-|--------------------|---------------------------------------------|
-| daily driver       | python, typescript                          |
-| also fluent in     | html/css, dart, c#                          |
-| currently digging  | reinforcement learning, edge ai, embedded   |
-| not interested in  | trend-chasing, "10x developer" threads      |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-panel-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-panel-light.svg">
+  <img alt="stack signal panel" src="assets/stack-panel-dark.svg" width="100%">
+</picture>
 
 ```
 $ ls ~/projects --sort=recent -la
@@ -48,5 +47,5 @@ no discord badge wall, no "let's connect 🚀" — just [github.com/afprayogi](h
 ---
 
 <!--LAST_UPDATED-->
-`last sync: 2026-09-29 02:50 UTC` — kept honest by [update.py](update.py), not by hand
+`last sync: 2026-09-29 07:10 UTC` — kept honest by [update.py](update.py), not by hand
 <!--END_LAST_UPDATED-->

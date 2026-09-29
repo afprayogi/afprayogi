@@ -1,0 +1,62 @@
+<svg width="100%" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace">
+  <defs>
+    <linearGradient id="bgPanelD" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111826"/>
+    </linearGradient>
+    <clipPath id="clipPanelD"><rect x="1" y="1" width="898" height="258" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clipPanelD)">
+    <rect x="1" y="1" width="898" height="258" fill="url(#bgPanelD)"/>
+
+    <!-- PCB edge-connector fingers -->
+    <g fill="#d29922" opacity="0.55">
+      <rect x="0" y="14" width="9" height="10"/>
+      <rect x="0" y="32" width="9" height="10"/>
+      <rect x="0" y="50" width="9" height="10"/>
+      <rect x="0" y="68" width="9" height="10"/>
+      <rect x="0" y="86" width="9" height="10"/>
+      <rect x="0" y="172" width="9" height="10"/>
+      <rect x="0" y="190" width="9" height="10"/>
+      <rect x="0" y="208" width="9" height="10"/>
+      <rect x="0" y="226" width="9" height="10"/>
+      <rect x="0" y="244" width="9" height="10"/>
+    </g>
+
+    <text x="24" y="26" font-size="11" fill="#6e7681" letter-spacing="1">SIGNAL // interest.eq</text>
+    <text x="876" y="26" font-size="11" fill="#6e7681" text-anchor="end">4ch</text>
+    <line x1="24" y1="34" x2="876" y2="34" stroke="#30363d" stroke-width="1"/>
+
+    <!-- Row 1: daily driver -->
+    <text x="24" y="64" font-size="15" fill="#c9d1d9">daily driver</text>
+    <text x="24" y="80" font-size="11" fill="#6e7681">python · typescript</text>
+    <rect x="230" y="58" width="630" height="10" rx="5" fill="#161b22"/>
+    <rect x="230" y="58" width="580" height="10" rx="5" fill="#3fb950"/>
+    <text x="860" y="66" font-size="11" fill="#3fb950" text-anchor="end">primary</text>
+
+    <!-- Row 2: also fluent -->
+    <text x="24" y="118" font-size="15" fill="#c9d1d9">also fluent</text>
+    <text x="24" y="134" font-size="11" fill="#6e7681">html/css · dart · c#</text>
+    <rect x="230" y="112" width="630" height="10" rx="5" fill="#161b22"/>
+    <rect x="230" y="112" width="430" height="10" rx="5" fill="#58a6ff"/>
+    <text x="860" y="120" font-size="11" fill="#58a6ff" text-anchor="end">solid</text>
+
+    <!-- Row 3: currently digging (animated) -->
+    <text x="24" y="172" font-size="15" fill="#c9d1d9">currently digging</text>
+    <text x="24" y="188" font-size="11" fill="#6e7681">reinforcement learning · edge ai · embedded</text>
+    <rect x="230" y="166" width="630" height="10" rx="5" fill="#161b22"/>
+    <rect x="230" y="166" height="10" rx="5" fill="#d29922">
+      <animate attributeName="width" values="330;370;330" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="860" y="174" font-size="11" fill="#d29922" text-anchor="end">active</text>
+
+    <!-- Row 4: not interested -->
+    <text x="24" y="226" font-size="15" fill="#8b949e">not interested</text>
+    <text x="24" y="242" font-size="11" fill="#6e7681">trend-chasing, hype cycles</text>
+    <rect x="230" y="220" width="630" height="10" rx="5" fill="#161b22"/>
+    <rect x="230" y="220" width="55" height="10" rx="5" fill="#6e7681"/>
+    <text x="860" y="228" font-size="11" fill="#6e7681" text-anchor="end">muted</text>
+  </g>
+  <rect x="1" y="1" width="898" height="258" rx="14" fill="none" stroke="#30363d" stroke-width="1"/>
+</svg>
