@@ -31,11 +31,11 @@ $ ls ~/projects --sort=recent -la
 ```
 
 <!--START_PROJECTS-->
+- [nova-desktop-pet](https://github.com/afprayogi/nova-desktop-pet) — Asisten desktop pet untuk Windows, ditulis dengan Rust. Memori lokal, otak model berlapis (Gemini, OmniRoute, Ollama), dan perkakas komputer yang aman. · `rust`
 - [virtual-office-assistant-prototype](https://github.com/afprayogi/virtual-office-assistant-prototype) — prototype assistant virtual with configuration omniroute studio. side project but ditinggalkan · `python`
 - [learningneuralnetworkonmikrokontroler](https://github.com/afprayogi/learningneuralnetworkonmikrokontroler) — project belajar · `python`
 - [ai-internship-search-proto](https://github.com/afprayogi/ai-internship-search-proto) — AI-powered internship search assistant for Indonesian engineering students — Claude Code workflow for profile setup, job evaluation, tailored CV/cover letters, and interview prep, plus an offline LinkedIn/JobStreet scraper with WhatsApp notifications. · `html`
 - [ppe_apk_prototype](https://github.com/afprayogi/ppe_apk_prototype) · `dart`
-- [bengkel-masalah-elektrikal](https://github.com/afprayogi/bengkel-masalah-elektrikal) — Dashboard jalur belajar Teknik Elektro berbasis masalah nyata — menarik soal troubleshooting asli dari Stack Exchange, GitHub Issues, dan arXiv, disusun jadi 361+ task 4 level dari fondasi sampai proyek industri (motor control, IoT, PLC, AI edge). · `html`
 <!--END_PROJECTS-->
 
 ```
@@ -47,5 +47,5 @@ no discord badge wall, no "let's connect 🚀" — just [github.com/afprayogi](h
 ---
 
 <!--LAST_UPDATED-->
-`last sync: 2026-10-11 02:20 UTC` — kept honest by [update.py](update.py), not by hand
+`last sync: 2026-10-12 02:44 UTC` — kept honest by [update.py](update.py), not by hand
 <!--END_LAST_UPDATED-->
